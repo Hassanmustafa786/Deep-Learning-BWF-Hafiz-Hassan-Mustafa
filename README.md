@@ -1,3 +1,7 @@
+<h1>
+  Hello! I'm Hafiz Hassan Mustafa
+</h1>
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/IcZhFmufozDCij3p22/giphy.gif" width="330"/>
 </div>
@@ -17,10 +21,10 @@
 
 <img src="https://komarev.com/ghpvc/?username=Hassanmustafa786&style=flat-square&color=blue" alt=""/>
 
-<h1>
+<h2>
   Welcome To my Repository!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+</h2>
 
 <div align="center">
   <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="600" height="300"/>
